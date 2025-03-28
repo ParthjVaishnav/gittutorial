@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 harsh 1
 harsh 2
 
@@ -13,3 +14,5 @@ harsh 7
 harsh 8
 harsh 9harsh
 harsh 10
+=======
+>>>>>>> 972699c9939c858a129c18719e5562e372b0bd8d
