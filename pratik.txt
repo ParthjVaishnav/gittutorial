@@ -1,3 +1,7 @@
 bhai yo kam to karo yarrrrrrrrrrrr 
 
+<<<<<<< HEAD
 hello endel 
+=======
+hello endel
+>>>>>>> 586d0829b7f16ada420e5a50c01ac1ff465470bf
